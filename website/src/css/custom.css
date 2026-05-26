@@ -1,0 +1,45 @@
+/* Teal accent — generated shades from #0D9488 */
+:root {
+  --ifm-color-primary: #0D9488;
+  --ifm-color-primary-dark: #0c847a;
+  --ifm-color-primary-darker: #0b7c73;
+  --ifm-color-primary-darkest: #09675f;
+  --ifm-color-primary-light: #0ea497;
+  --ifm-color-primary-lighter: #0fad9f;
+  --ifm-color-primary-lightest: #12c2b3;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #2dd4bf;
+  --ifm-color-primary-dark: #1ecebb;
+  --ifm-color-primary-darker: #1ac9b6;
+  --ifm-color-primary-darkest: #15a595;
+  --ifm-color-primary-light: #3cd8c5;
+  --ifm-color-primary-lighter: #46dbca;
+  --ifm-color-primary-lightest: #66e3d4;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* ── Color Swatches ─────────────────────────────────────────── */
+.color-swatch-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.88em;
+  background: var(--ifm-code-background);
+  padding: 2px 7px 2px 4px;
+  border-radius: 4px;
+  border: 1px solid var(--ifm-toc-border-color);
+}
+
+.color-swatch {
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  border-radius: 3px;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  flex-shrink: 0;
+}
