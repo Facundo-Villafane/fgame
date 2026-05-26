@@ -163,8 +163,8 @@ Cada animal tiene habilidades relacionadas con su cuerpo, instinto o personalida
 | ---- | ---- |
 | **Engine** | Godot 4.6 |
 | **Desafíos clave** | Feel del tag-switch (transición + vulnerabilidad); sincronización de eventos de isla |
-| **Arte** | 2D stylized — cartoon colorido, urban furry |
-| **Complejidad arte** | Medium — personajes custom animados 2D |
+| **Arte** | 2.5D — escenario 3D con sprites 2D para personajes; cartoon colorido, urban furry |
+| **Complejidad arte** | Medium-High — sprites animados 2D sobre escenario 3D; Forward+ renderer; iluminación 3D sobre sprites |
 | **Audio** | Moderate — SFX por personaje, música por isla |
 | **Networking** | Local primero; P2P post-prototipo |
 | **Contenido MVP** | 4 personajes, 3 islas |
